@@ -14,7 +14,7 @@ Dhi Aurrahman
 
 ## Education
 
-- Master of Engineering in Computer Engineering, Computer Vision and Pattern Recognition, Chonnam National University 4.19/4/50
+- Master of Engineering in Computer Engineering, Computer Vision and Pattern Recognition, Chonnam National University 4.19/4.50
 - Bachelor Sciences in Physics, Computational Physics, Institut Teknologi Bandung 3.41/4.00
 
 ## Additional experience
