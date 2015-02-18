@@ -1,7 +1,7 @@
 Dhi Aurrahman
 <br/>+62 812 2039966
 <br/>diorahman@rockybars.com
-<br/>http://github.com/diorahman
+<br/>https://github.com/diorahman
 
 ## Employment
 
