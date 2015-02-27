@@ -33,3 +33,10 @@ Dhi Aurrahman
 - C++, JavaScript
 - Qt, Node.js
 
+## References
+
+- Lee, Chilwoo. ECE Professor at School of Electronics and Computer Engineering Chonnam National University. leecw@chonnam.ac.kr
+- Stjepan Rajko. AMELiA project. stjepan.rajko@gmail.com
+- Song, Hee-jun. Researcher at Samsung Electronics. heejun7.song@samsung.com
+- Benjamin Poulain. WebKit reviewer. benjamin@webkit.org
+
