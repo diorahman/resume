@@ -19,10 +19,10 @@ Dhi Aurrahman
 
 ## Additional experience
 
-- WebKit Committer https://www.webkit.org/team.html
+- WebKit committer https://www.webkit.org/team.html
 - Gecko contributor https://bugzil.la/1130911
-- Qt Ambassador
-- App Contest winner at LinuxTag 2012
+- Qt ambassador
+- App Contest winner at LinuxTag 2012 http://qt-project.org/wiki/LinuxTag-2012-App-Contest
 - Involved in AME Patterns Lib http://sourceforge.net/projects/amelibraries
 - Involved in Samsung R&D activities: human-detection, gesture-recognition
 - Speech scrambling project with PT Len Industri http://len.co.id
@@ -36,7 +36,7 @@ Dhi Aurrahman
 ## References
 
 - Lee, Chilwoo. ECE Professor at School of Electronics and Computer Engineering Chonnam National University. leecw@chonnam.ac.kr
-- Stjepan Rajko. AMELiA project. stjepan.rajko@gmail.com
+- Stjepan Rajko. AMELiA project owner. stjepan.rajko@gmail.com
 - Song, Hee-jun. Researcher at Samsung Electronics. heejun7.song@samsung.com
 - Benjamin Poulain. WebKit reviewer. benjamin@webkit.org
 
