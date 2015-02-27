@@ -8,7 +8,7 @@ Dhi Aurrahman
 - Freelance software developer in C++ (Qt) and JavaScript (Node.js) 2010-present
 - Software engineer, aegislabs http://aegis.co.id 2010-2012
 - Software engineer, dycode http://dycode.co.id 2010-2011
-- Research assistance, Chonnam National University 2007-2009
+- Research assistant, Chonnam National University http://jnu.ac.kr 2007-2009
 - Business technologist, jatis http://jatis.co.id 2006-2007
 - Programmer, quatronics, 2005-2006
 
