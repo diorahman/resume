@@ -1,0 +1,42 @@
+Dhi Aurrahman
++62 812 2039966
+diorahman@rockybars.com
+https://github.com/diorahman
+
+## Employment
+
+- Freelance software developer in C++ (Qt) and JavaScript (Node.js) 2010-present.
+- Software engineer, Aegislabs http://aegis.co.id 2010-2012.
+- Software engineer, Dycode http://dycode.co.id 2010-2011.
+- Research assistant, Chonnam National University http://jnu.ac.kr 2007-2009.
+- Business technologist, Jatis http://jatis.co.id 2006-2007.
+- Programmer, Quatronics, 2005-2006.
+
+## Education
+
+- Master of Engineering in Computer Engineering, Computer Vision and Pattern Recognition, Chonnam National University 4.19/4.50.
+- Bachelor of Science in Physics, Computational Physics, Institut Teknologi Bandung 3.41/4.00.
+
+## Additional experience
+
+- WebKit committer https://www.webkit.org/team.html, http://trac.webkit.org/search?q=Dhi+Aurrahman&changeset=on.
+- Gecko contributor https://bugzil.la/1130911.
+- Qt ambassador.
+- App Contest winner at LinuxTag 2012 http://qt-project.org/wiki/LinuxTag-2012-App-Contest.
+- Involved in AME Patterns Lib http://sourceforge.net/projects/amelibraries.
+- Involved in Samsung R&D activities: human-detection, gesture-recognition.
+- Speech scrambling project with PT Len Industri http://len.co.id.
+- Raman amplifier development project with Telekom Malaysia http://tmrnd.com.my.
+
+## Languages and technologies
+
+- C++, JavaScript.
+- Qt, Node.js.
+
+## References
+
+- Lee, Chilwoo. ECE Professor at School of Electronics and Computer Engineering Chonnam National University. leecw@chonnam.ac.kr.
+- Stjepan Rajko. AMELiA project owner. stjepan.rajko@gmail.com.
+- Song, Hee-jun. Researcher at Samsung Electronics. heejun7.song@samsung.com.
+- Benjamin Poulain. WebKit reviewer. benjamin@webkit.org.
+
