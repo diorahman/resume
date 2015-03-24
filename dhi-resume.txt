@@ -20,7 +20,7 @@ https://github.com/diorahman
 ## Additional experience
 
 - WebKit committer https://www.webkit.org/team.html, http://trac.webkit.org/search?q=Dhi+Aurrahman&changeset=on.
-- Gecko contributor https://bugzil.la/1130911.
+- Gecko contributor https://bugzil.la/1130911, https://hg.mozilla.org/integration/mozilla-inbound/log?rev=Dhi+Aurrahman
 - Qt ambassador.
 - App Contest winner at LinuxTag 2012 http://qt-project.org/wiki/LinuxTag-2012-App-Contest.
 - Involved in AME Patterns Lib http://sourceforge.net/projects/amelibraries.
