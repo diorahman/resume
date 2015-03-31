@@ -1,5 +1,9 @@
 Dhi Aurrahman
-<br/>+62 812 2039966
+
+- WebKit committer https://www.webkit.org/team.html, http://trac.webkit.org/search?q=Dhi+Aurrahman&changeset=on.
+- Gecko contributor https://bugzil.la/1130911, https://hg.mozilla.org/integration/mozilla-inbound/log?rev=Dhi+Aurrahman
+
++62 812 2039966
 <br/>diorahman@rockybars.com
 <br/>https://github.com/diorahman
 
