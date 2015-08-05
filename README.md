@@ -1,7 +1,7 @@
 Dhi Aurrahman
 
-- WebKit committer https://www.webkit.org/team.html, http://trac.webkit.org/search?q=Dhi+Aurrahman&changeset=on.
-- Gecko contributor https://bugzil.la/1130911, https://hg.mozilla.org/integration/mozilla-inbound/log?rev=Dhi+Aurrahman
+- WebKit committer http://trac.webkit.org/search?q=Dhi+Aurrahman&changeset=on, https://www.webkit.org/team.html.
+- Gecko contributor https://hg.mozilla.org/integration/mozilla-inbound/log?rev=Dhi+Aurrahman, https://bugzil.la/1130911.
 
 +62 812 2039966
 <br/>diorahman@rockybars.com
