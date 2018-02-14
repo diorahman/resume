@@ -9,7 +9,8 @@ Dhi Aurrahman
 
 ## Employment
 
-- Freelance software developer in C++ (Qt) and JavaScript (Node.js) 2010-present.
+- Software engineer, HOOQ.tv (https://bloom.bg/2swugdj, https://hooq.tv) (https://www.hooq.tv) JavaScript (Node.js), Go, C++ 2016-2018
+- Freelance software developer in C++ (Qt) and JavaScript (Node.js) 2010-2016.
 - Software engineer, Aegislabs http://aegis.co.id 2010-2012.
 - Software engineer, Dycode http://dycode.co.id 2010-2011.
 - Research assistant, Chonnam National University http://jnu.ac.kr 2007-2009.
