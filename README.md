@@ -4,7 +4,7 @@ Dhi Aurrahman
 - Gecko contributor https://hg.mozilla.org/integration/mozilla-inbound/log?rev=Dhi+Aurrahman, https://bugzil.la/1130911.
 
 +62 812 2039966
-<br/>diorahman@rockybars.com
+<br/>dio@rockybars.com
 <br/>https://github.com/diorahman
 
 ## Employment
